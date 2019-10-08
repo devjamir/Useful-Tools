@@ -9,7 +9,7 @@ Useful Tools for Developers
 * https://codebeautify.org/jsviewer
 * https://www.freeformatter.com/javascript-beautifier.html
 
-# ALERTIFY JS
+## ALERTIFY JS
 * https://alertifyjs.com/
 
 ## CSS Border Radius Generator 
@@ -19,6 +19,7 @@ Useful Tools for Developers
 ## Fonts / Icons
 
 * https://fontawesome.com/
+* http://www.flaticon.com/
 
 ## QR Code
 

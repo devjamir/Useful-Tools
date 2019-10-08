@@ -8,3 +8,14 @@ Useful Tools for Developers
 * https://jsonformatter.org/jsbeautifier
 * https://codebeautify.org/jsviewer
 * https://www.freeformatter.com/javascript-beautifier.html
+
+# ALERTIFY JS
+* https://alertifyjs.com/
+
+## CSS Border Radius Generator 
+
+* https://border-radius.com/
+
+# Fonts / Icons
+
+* https://fontawesome.com/

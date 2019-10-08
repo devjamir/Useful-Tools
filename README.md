@@ -20,6 +20,7 @@ Useful Tools for Developers
 
 * https://fontawesome.com/
 * http://www.flaticon.com/
+* https://findicons.com/
 
 ## QR Code
 

@@ -15,3 +15,7 @@ Useful Tools for Developers
 ## CSS Border Radius Generator 
 
 * https://border-radius.com/
+
+# Fonts / Icons
+
+* https://fontawesome.com/

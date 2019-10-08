@@ -16,6 +16,10 @@ Useful Tools for Developers
 
 * https://border-radius.com/
 
-# Fonts / Icons
+## Fonts / Icons
 
 * https://fontawesome.com/
+
+## QR Code
+
+* https://www.qr-code-generator.com/
